@@ -1,0 +1,42 @@
+@media only screen and (max-width: 768px) {
+
+body {
+    margin: 0 auto;
+}
+
+header {
+    background-image: url("http://placehold.it/480x75");
+    width: 480px;
+    height: 75px;
+}
+
+nav {
+    background-image: url("http://placehold.it/480x150");
+    width: 480px;
+    height: 150px;
+}
+
+section {
+    background-image: url("http://placehold.it/480x125");
+    width: 480px;
+    height: 125px;
+}
+
+article {
+    background-image: url("http://placehold.it/240x250");
+    width: 240px;
+    height: 250px;
+}
+
+footer {
+    background-image: url("http://placehold.it/480x80");
+    width: 480px;
+    height: 80px;
+
+}
+
+.right-move {
+    /* float: left; */
+    display: inline-block;
+}
+};
